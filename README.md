@@ -26,9 +26,11 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 (![alt text](image.png))
 
 ### IP2LOCATION
+
 ![alt text](image-1.png)
 
 ### WEB ARCHIVE
+
 ![alt text](image-2.png)
 ### NMAP
 ![alt text](image-3.png)
